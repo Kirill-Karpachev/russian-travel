@@ -1,0 +1,9 @@
+.cover {
+  background: rgba(42, 44, 47, .3) url(../../../images/cover/cover-trains.jpg) center/cover no-repeat;
+  background-blend-mode: overlay;
+  transition: .2s linear;
+}
+
+.cover:hover {
+  background-color: rgba(42, 44, 47, .8);
+}
