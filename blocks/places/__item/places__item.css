@@ -1,20 +1,19 @@
-.place_margin-bottom {
+.places__item {
   margin-bottom: 80px;
 }
 
-.place_margin-bottom:last-child {
+.places__item:last-child {
   margin-bottom: 0;
 }
 
 @media screen and (max-width: 768px) {
-  .place_margin-bottom {
+  .places__item {
     margin-bottom: 73px;
   }
 }
 
 @media screen and (max-width: 320px) {
-  .place_margin-bottom {
+  .places__item {
     margin-bottom: 50px;
   }
 }
-
