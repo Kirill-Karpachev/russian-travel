@@ -1,6 +1,6 @@
 .cover {
   min-height: calc(200px + (740 - 200) * ((100vw - 320px) / (1280 - 320)));
-  background: rgba(42, 44, 47, .3) url(../../../images/cover/cover-trains.jpg) center/cover no-repeat;
+  background: rgba(42, 44, 47, .3) url(../../images/cover/cover-trains.jpg) center/cover no-repeat;
   background-blend-mode: overlay;
   transition: .2s linear;
 }
